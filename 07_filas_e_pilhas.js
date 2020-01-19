@@ -48,4 +48,4 @@ function main(){
         console.log(s + " não é um palíndromo");
 }
 
-//adicionando esse comentario soh pra mudar algo no file e experimentar usar o git no cmd
+//o VSCode lê na hora a mudança de repo, tem que fazer nada... cool
